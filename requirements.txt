@@ -3,5 +3,3 @@ uvicorn
 numpy
 opencv-python-headless
 face_recognition
-python-multipart
-pydantic
